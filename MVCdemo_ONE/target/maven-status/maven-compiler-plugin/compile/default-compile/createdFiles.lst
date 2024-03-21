@@ -1,0 +1,5 @@
+vw\manu\web\MVCdemo\model\Employee.class
+vw\manu\web\MVCdemo\restcontrollers\EmpRestController.class
+vw\manu\web\MVCdemo\dao\EmpDao.class
+vw\manu\web\MVCdemo\repo\EmpJpaRepo.class
+vw\manu\web\MVCdemo\MvCdemoApplication.class

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: TMAJBW9
+Build-Jdk: 17.0.9
+Implementation-Title: MVCdemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: vw.manu.web
+Implementation-URL: https://spring.io/projects/spring-boot/MVCdemo
+Created-By: Maven Integration for Eclipse
+
